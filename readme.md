@@ -6,4 +6,4 @@ vam nudi mogucnost da odaberete najbolju nekretninu bilo da se radi o izdavanju 
 ## Izdavanje
 
 U Beogradu je veomo razvijeno trziste za izdavanje stanova. Mesecno se objavi preko 5000 novih stanova koji se izdaju.
-[Ponudu za izdavanje mozete pogledati ovde](https://ruby.github.io/rdoc/) sajt koji nudi najvecu ponudu stanova za izdavanje. 
+[Ponudu za izdavanje mozete pogledati ovde](https://www.mojanekretnina.rs/) sajt koji nudi najvecu ponudu stanova za izdavanje. 
